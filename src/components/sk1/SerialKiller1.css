@@ -1,0 +1,50 @@
+
+        .wrap{
+            text-align: center;
+            position: relative;
+            color : black;
+            margin-top : 1%;
+            font-size: 0.9em;
+            font-family: 'Architects Daughter', cursive;
+            font-weight: bold;
+        }
+        
+        .titreQ{
+            font-size: 4em;
+            margin-top : -18%;
+            font-family: 'Creepster', cursive;
+        }
+        
+        label{
+            font-size: 1.40em;
+            
+        }
+        
+        .parchemin{
+            position: absolute; 
+            margin-top : -10%;
+            text-align: center;
+        
+            
+        
+        }
+        
+        .quizdoc {
+            position: relative;
+            margin-top: -53%;
+        }
+        
+    
+        #answer {
+            font-family: 'Architects Daughter', cursive;
+            font-weight: bold;
+            font-size: 1.5em;
+            padding-top: 75px;
+            word-break: break-word;
+            width : 280px;
+            border: 3px black solid;
+            display: block;
+            margin: auto;
+            color: white;
+            }
+        
